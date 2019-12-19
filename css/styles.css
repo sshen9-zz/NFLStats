@@ -1,0 +1,71 @@
+* {
+    font-family: "Fira Sans", sans-serif;
+}
+
+#title {
+    font-weight: 800;
+}
+.card {
+    height: 130px;
+    margin: 8px;
+}
+
+.info {
+    padding: 20px;
+}
+
+.card img {
+    background: white;
+    padding: 8px;
+    margin-top: -50px;
+    border: 1px solid black;
+    height: 100px;
+    width: 130px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 25px;
+    border: 1px solid black;
+}
+
+section#nav a {
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+section#nav i {
+    margin: 0 5px;
+}
+
+section#modal h2 {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+section#modal h4 {
+    font-size: 30px;
+    margin: 15px;
+    font-weight: bolder;
+}
+
+section#footer {
+    font-size: 25px;
+    font-weight: bolder;
+    color: white;
+    background: #4f4f4f;
+}
+
+section#footer img {
+    margin-left: 15px;
+    margin-top: 25px;
+    height: 100px;
+}
+
+#text {
+    padding-right: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    float: right;
+}
